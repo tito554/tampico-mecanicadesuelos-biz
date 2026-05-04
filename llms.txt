@@ -1,0 +1,51 @@
+# Mecanicadesuelos — Tampico
+
+> Geotechnical engineering services in Tampico, México.
+
+## Services
+- [Aislacion Sismica](https://tampico.mecanicadesuelos.biz/aislacion-sismica/)
+- [Anclajes](https://tampico.mecanicadesuelos.biz/anclajes/)
+- [Calicatas](https://tampico.mecanicadesuelos.biz/calicatas/)
+- [Cbr Vial](https://tampico.mecanicadesuelos.biz/cbr-vial/)
+- [Cimentaciones](https://tampico.mecanicadesuelos.biz/cimentaciones/)
+- [Columnas Grava](https://tampico.mecanicadesuelos.biz/columnas-grava/)
+- [Densidad Cono Arena](https://tampico.mecanicadesuelos.biz/densidad-cono-arena/)
+- [Ensayo Cpt](https://tampico.mecanicadesuelos.biz/ensayo-cpt/)
+- [Ensayos Proctor](https://tampico.mecanicadesuelos.biz/ensayos-proctor/)
+- [Estabilidad Taludes](https://tampico.mecanicadesuelos.biz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://tampico.mecanicadesuelos.biz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://tampico.mecanicadesuelos.biz/excavaciones-subterraneo/)
+- [Exploracion](https://tampico.mecanicadesuelos.biz/exploracion/)
+- [Geotecnia Vial](https://tampico.mecanicadesuelos.biz/geotecnia-vial/)
+- [Granulometria](https://tampico.mecanicadesuelos.biz/granulometria/)
+- [Inyecciones](https://tampico.mecanicadesuelos.biz/inyecciones/)
+- [Laboratorio In Situ](https://tampico.mecanicadesuelos.biz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://tampico.mecanicadesuelos.biz/laboratorio-lab/)
+- [Licuefaccion](https://tampico.mecanicadesuelos.biz/licuefaccion/)
+- [Limites Atterberg](https://tampico.mecanicadesuelos.biz/limites-atterberg/)
+- [Losas Fundacion](https://tampico.mecanicadesuelos.biz/losas-fundacion/)
+- [Masw](https://tampico.mecanicadesuelos.biz/masw/)
+- [Mejoramiento](https://tampico.mecanicadesuelos.biz/mejoramiento/)
+- [Microzonificacion Sismica](https://tampico.mecanicadesuelos.biz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://tampico.mecanicadesuelos.biz/monitoreo-excavaciones/)
+- [Muros Contencion](https://tampico.mecanicadesuelos.biz/muros-contencion/)
+- [Pavimento Flexible](https://tampico.mecanicadesuelos.biz/pavimento-flexible/)
+- [Pavimento Rigido](https://tampico.mecanicadesuelos.biz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://tampico.mecanicadesuelos.biz/permeabilidad-in-situ/)
+- [Pilotes](https://tampico.mecanicadesuelos.biz/pilotes/)
+- [Refraccion Sismica](https://tampico.mecanicadesuelos.biz/refraccion-sismica/)
+- [Resistividad](https://tampico.mecanicadesuelos.biz/resistividad/)
+- [Sismica](https://tampico.mecanicadesuelos.biz/sismica/)
+- [Sondajes Spt](https://tampico.mecanicadesuelos.biz/sondajes-spt/)
+- [Taludes](https://tampico.mecanicadesuelos.biz/taludes/)
+- [Triaxial](https://tampico.mecanicadesuelos.biz/triaxial/)
+- [Tuneles Suelo Blando](https://tampico.mecanicadesuelos.biz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://tampico.mecanicadesuelos.biz/vibrocompactacion/)
+- [Zapatas](https://tampico.mecanicadesuelos.biz/zapatas/)
+
+## Contact
+- Website: https://tampico.mecanicadesuelos.biz/
+
+## About
+This site provides geotechnical engineering services in Tampico, México.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
